@@ -1,4 +1,4 @@
 lmmm
 ====
 
-Medida no LMMM
+Mostra a medida sendo feita no LMMM e compatilhada online.
